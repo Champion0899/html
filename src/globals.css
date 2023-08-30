@@ -1,0 +1,27 @@
+.title{
+    background: skyblue;
+
+}
+
+.grid_lorem{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+p{
+    background: greenyellow;
+    color: yellow;
+    padding: 30px;
+    font-family: "Bookshelf Symbol 7";
+    rotate: 20deg;
+}
+
+.image{
+    position: relative;
+    padding: 20px;
+    right: 20px;
+}
+
+.inputname{
+    background: #000;
+}
